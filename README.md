@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asijanah
-- 👀 I’m interested in ... React,JS,Python,SQL,Node.js
-- 🌱 I’m currently learning ...React
+- 👀 I’m interested in ... React,JS,Python,SQL,Node.js,Apex
+- 🌱 I’m currently learning ...Salesforce Development
 - 💞️ I’m looking to collaborate on ...Any collaboration
 - 📫 How to reach me ...asafjanah@gmail.com
 
